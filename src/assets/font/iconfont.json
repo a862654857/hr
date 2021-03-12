@@ -1,0 +1,30 @@
+{
+  "id": "2399046",
+  "name": "no name",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "14137886",
+      "name": "审批",
+      "font_class": "shenpi2",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "1695427",
+      "name": "主页",
+      "font_class": "zhuye",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "15646069",
+      "name": "资料管理",
+      "font_class": "ziliaoguanli",
+      "unicode": "e698",
+      "unicode_decimal": 59032
+    }
+  ]
+}
